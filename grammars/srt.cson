@@ -49,7 +49,7 @@
       '3':
         'name': 'constant.numeric.time.srt'
   'sound':
-    'match': '\\[.*?\\]'
+    'match': '\\[.*?\\]|\\(.*?\\)'
     'name': 'string.quoted.other.sound.srt'
   'person':
     'match': '^\\w+:'
